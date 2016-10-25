@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<workspaceFilter version="1.0">
-    <filter root="/apps/archetype.it"/>
-    <filter root="/etc/clientlibs/archetype.it"/>
-    <filter root="/etc/designs/archetype.it/fonts"/>
-    <filter root="/etc/designs/archetype.it/images"/>
-    <filter root="/etc/designs/archetype.it/svg"/>
-</workspaceFilter>
