@@ -55,8 +55,8 @@
                     <embeddeds>
                         <embedded>
                             <groupId>${project.groupId}</groupId>
-                            <artifactId>skeleton-bundle</artifactId>
-                            <target>/apps/skeleton/install</target>
+                            <artifactId>${groupId}-bundle</artifactId>
+                            <target>/apps/${groupId}/install</target>
                         </embedded>
                     </embeddeds>
                     <targetURL>http://${crx.host}:${crx.port}/crx/packmgr/service.jsp</targetURL>
